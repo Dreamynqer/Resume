@@ -172,7 +172,7 @@ a:visited {
 }
 
 .form-group input,
-.form-group input textarea {
+.form-group textarea {
   width: 100%;
   box-sizing: border-box;
   border: none;
